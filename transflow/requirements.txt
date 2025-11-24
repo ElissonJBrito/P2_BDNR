@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+motor
+aio-pika
+redis>=4.5.1
+pydantic
+python-dotenv
